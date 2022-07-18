@@ -5,7 +5,6 @@
 //					is controlled by two different clocks. One clock
 //					is used to read and other is used to write onto 
 //					FIFO.
-//Author: Adeel Ghumman
 //*********************************************************
 `timescale 100ns/1ns
 module asy_fifo (reset,wr_en,rd_en, rd_clk, wr_clk, data_in,
