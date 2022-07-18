@@ -1,4 +1,4 @@
-//Author: Adeel Ghumman
+
 `include "asy_fifo.v"
 `timescale 100ns/100ns
 module asy_fifo_tb ();
