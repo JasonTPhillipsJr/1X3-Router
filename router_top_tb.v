@@ -1,4 +1,4 @@
-//Authors: Jason Phillips, Adeel Ghumman, Harjot Sidhu
+//Authors: Jason Phillips, Harjot Sidhu
 `include "router_top.v"
 //100KHz = 10000ns(p) & 250KHz = 4000 ns(p)
 //2000ns = half cycle for clk1		#20 for half period, #40 for full period.
